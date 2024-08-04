@@ -1,6 +1,3 @@
-# Direct Algorithm
-
-
 ## Introduction
 
 The Direct Algorithm, or DIviding RECTangles, partitions the search space adaptively to find optima. \\

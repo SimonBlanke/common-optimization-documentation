@@ -1,6 +1,3 @@
-# Stochastic Hill Climbing
-
-
 ## Introduction
 
 Stochastic Hill Climbing introduces randomness into the hill climbing process to escape local optima. \\

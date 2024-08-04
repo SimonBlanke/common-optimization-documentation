@@ -1,6 +1,3 @@
-# Hill Climbing
-
-
 ## Introduction
 
 Hill Climbing incrementally improves a solution by making small changes and accepting the better ones. \\

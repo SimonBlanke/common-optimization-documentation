@@ -1,6 +1,3 @@
-# Genetic Algorithm 
-
-
 ## Introduction
 
 Genetic Algorithm uses evolutionary strategies to optimize by simulating natural selection. \\

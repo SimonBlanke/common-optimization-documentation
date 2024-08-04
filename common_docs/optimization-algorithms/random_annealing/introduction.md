@@ -1,6 +1,3 @@
-# Random Annealing
-
-
 ## Introduction
 
 Random Annealing combines random search with annealing-like strategies. \\

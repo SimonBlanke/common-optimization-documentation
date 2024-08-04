@@ -1,6 +1,3 @@
-# Grid Search
-
-
 ## Introduction
 
 Grid Search systematically searches through a predefined grid of parameter values. \\

@@ -1,6 +1,3 @@
-# Pattern Search
-
-
 ## Introduction
 
 Pattern Search explores the search space using a set of pattern moves. \\

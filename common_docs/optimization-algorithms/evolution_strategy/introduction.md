@@ -1,6 +1,3 @@
-# Evolution Strategy 
-
-
 ## Introduction
 
 Evolution Strategy uses evolutionary strategies to optimize by simulating natural selection. \\

@@ -1,6 +1,3 @@
-# Forest Optimization
-
-
 ## Introduction
 
 Forest Optimization uses tree-based ensembles to guide the optimization process. \\

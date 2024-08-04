@@ -1,6 +1,3 @@
-# Repulsing Hill Climbing
-
-
 ## Introduction
 
 Repulsing Hill Climbing modifies hill climbing by incorporating a repulsion mechanism to avoid local optima. \\

@@ -1,6 +1,3 @@
-# Random Restart Hill Climbing
-
-
 ## Introduction
 
 Random Restart Hill Climbing restarts hill climbing from random points to avoid local optima. \\

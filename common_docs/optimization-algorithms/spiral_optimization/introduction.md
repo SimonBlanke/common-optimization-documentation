@@ -1,6 +1,3 @@
-# Spiral Optimization
-
-
 ## Introduction
 
 Spiral Optimization searches the space in a spiral pattern to find optima. \\

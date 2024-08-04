@@ -1,6 +1,3 @@
-# Bayesian Optimization
-
-
 ## Introduction
 
 Bayesian optimization uses probabilistic models to guide the search for the optimum. \\

@@ -1,6 +1,3 @@
-# Parallel Tempering
-
-
 ## Introduction
 
 Parallel Tempering uses multiple simulated annealing instances at different temperatures to explore the search space. \\

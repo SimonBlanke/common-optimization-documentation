@@ -1,6 +1,3 @@
-# Particle Swarm Optimizer
-
-
 ## Introduction
 
 Particle Swarm Optimizer simulates a group of particles to explore the search space collectively. \\

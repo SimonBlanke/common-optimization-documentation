@@ -1,6 +1,3 @@
-# Tree Structured Parzen Estimators
-
-
 ## Introduction
 
 Tree Structured Parzen Estimators model the objective function using non-parametric density estimation. \\

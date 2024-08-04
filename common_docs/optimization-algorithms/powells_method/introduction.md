@@ -1,6 +1,3 @@
-# Powell's Method
-
-
 ## Introduction
 
 Powell's Method is a direction-set optimization technique that does not require gradients. \\

@@ -1,6 +1,3 @@
-# Downhill Simplex Optimizer
-
-
 ## Introduction
 
 The Downhill Simplex Optimizer, also known as the Nelder-Mead method, uses a geometric approach to explore the search space without needing gradient information. \\

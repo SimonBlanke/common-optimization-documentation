@@ -1,6 +1,3 @@
-# Differential Evolution
-
-
 ## Introduction
 
 Differential Evolution optimizes by combining the differences between solutions to explore the search space. \\

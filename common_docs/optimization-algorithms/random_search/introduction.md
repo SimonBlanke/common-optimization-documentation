@@ -1,6 +1,3 @@
-# Random Search
-
-
 ## Introduction
 
 Random Search randomly samples the search space to find the best solution. \\

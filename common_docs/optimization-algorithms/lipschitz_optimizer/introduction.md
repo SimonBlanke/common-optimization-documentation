@@ -1,6 +1,3 @@
-# Lipschitz Optimizer
-
-
 ## Introduction
 
 The Lipschitz Optimizer leverages Lipschitz continuity to bound the search space. \\
